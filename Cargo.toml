@@ -1,0 +1,8 @@
+[package]
+name = "replace_mut"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "replace_mut"
+path = "replace_mut.rs"
